@@ -1,0 +1,3 @@
+[mysql]
+# https://dev.mysql.com/doc/refman/8.0/en/packet-too-large.html
+max_allowed_packed=1G
